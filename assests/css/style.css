@@ -1,8 +1,8 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
-
 
 body {
     /* more on this crazy alphanumerical value in a minute! */
@@ -45,3 +45,28 @@ body {
             font-weight: lighter;
             font-size: 22px;
         }
+
+
+        Footer {
+            background: #fce138;
+            width: 100%;
+            padding: 50 px 45px;   
+        }
+
+        Footer h2 {
+            display: inline;
+            color: #024e76;
+            font-size: 30px;
+            margin: 0;
+        }
+
+        Footer div {
+            float: right;
+            line-height: 1.5;
+            text-align: right;
+        }
+
+        Footer a {
+            color: #024e76;
+        }
+
