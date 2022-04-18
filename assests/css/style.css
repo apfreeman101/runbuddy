@@ -234,9 +234,15 @@ section {
   color:#024e76
 }
 
+/* Reach out Styles Start*/
+
 .contact {
   text-align: center;
   background:  #024e76
+}
+
+.contact h2 {
+  color:#fce138
 }
 
 .contact-info iframe {
@@ -265,6 +271,6 @@ section {
   font-style: normal;
 }
 
-.contact-info a {
+.contact-info address {
   color: #fce138;
 }
