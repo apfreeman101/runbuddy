@@ -1,4 +1,14 @@
-# runbuddy
-MOD 1 
+# Run Buddy
 
-Testing uploading and pushing
+## Purpose
+A website that offers fitness training services.
+
+## Built With
+* HTML
+* CSS
+
+## Website
+https://lernantino.github.io/run-buddy/
+
+## Contribution
+Made with ❤️ by Andrew Freeman
